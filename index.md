@@ -3,17 +3,7 @@ layout: default
 title: Carpediem - Open Sourced Project
 ---
 
-Introduction
+Active projects
 -------
 
-This is the home for all Open Sourced project from [Carpediem](https://www.carpediem.fr)
-
-Projects
--------
-
-- [JSend](http://carpediem.github.io/JSend/)
-
-License
--------
-
-Unless specified, all projects are released under The MIT License (MIT).
+- [JSend](http://carpediem.github.io/JSend/): A PHP Immutable Value Object implementing the JSend specification
