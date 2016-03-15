@@ -137,6 +137,10 @@ menu li.active a { border-bottom:3px solid #ef2a79; }
   font-size:.8em;
 }
 
+.page-title em:before {
+  content:' - ';
+}
+
 /* ---------- header automatic permalink -----------*/
 
 .header-permalink {
